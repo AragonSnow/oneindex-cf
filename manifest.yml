@@ -1,0 +1,6 @@
+---
+applications:
+ - name: oneindex-cf
+   random-route: true
+   buildpacks: 
+   - php_buildpack
