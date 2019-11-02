@@ -1,6 +1,6 @@
 <?php return array (
-  'site_name' => 'Aragon\'s OneIndex',
-  'password' => 'Qwe159874123',
+  'site_name' => 'web title网站标题',
+  'password' => 'your Passwd 你的密码',
   'style' => 'material',
   'onedrive_root' => '/',
   'cache_type' => 'secache',
@@ -100,7 +100,7 @@
   'client_secret' => 'stND93|#-mlftuSMSZA834%',
   'client_id' => '70a135da-f61c-491d-b04d-0f8d94da2ee0',
   'redirect_uri' => 'https://oneindex.github.io/',
-  'refresh_token' => '',
+  'refresh_token' => '刷新密码',
   'onedrive_hide' => '',
   'onedrive_hotlink' => '',
 );
