@@ -3,7 +3,7 @@
   'scope' => 'Files.ReadWrite.All profile openid email',
   'expires_in' => 3600,
   'ext_expires_in' => 3600,
-  'access_token' => '',
+  'access_token' => '登陆密码',
   'refresh_token' => '刷新密码',
   'expires_on' => 1566659090,
 );
