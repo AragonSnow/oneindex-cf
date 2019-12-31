@@ -1,6 +1,6 @@
 ---
 applications:
- - name: oneindex-cf
+ - name: ((os.VCAP_APPLICATION['application_name']))
    random-route: true
    buildpacks: 
    - php_buildpack
